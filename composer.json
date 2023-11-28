@@ -1,0 +1,17 @@
+{
+    "name": "gabrielcamurca/oo",
+    "description": "Estudando Orientação a Objetos com PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Camurça",
+            "email": "projetosdocamurca@gmail.com"
+        }
+    ],
+    "require": {}
+}
